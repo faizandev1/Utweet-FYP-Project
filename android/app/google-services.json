@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "654248653136",
+    "firebase_url": "https://utweet-90f9e-default-rtdb.firebaseio.com",
+    "project_id": "utweet-90f9e",
+    "storage_bucket": "utweet-90f9e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654248653136:android:55678b0cebf5dd5d89bc55",
+        "android_client_info": {
+          "package_name": "com.thealphamerc.faizan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654248653136-d507c43luse7afdtfceg7jnrrhf5a1tr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA35Dx04GAsCdGkXqoPejRDDDVIPGJv_8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654248653136-d507c43luse7afdtfceg7jnrrhf5a1tr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "654248653136-tqe47tt812s5i5s91bpg6ua6s5oeg4r0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.thealphamerc.faizan"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
