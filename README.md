@@ -5,7 +5,7 @@ It helps students connect through university-focused posts, interactions, profil
 
 ---
 
-##  Key Features
+##  Key Features UTWEET
 
 - **Authentication & Registration**
   - Secure sign up / sign in using **Firebase Authentication**
